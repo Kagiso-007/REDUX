@@ -1,0 +1,6 @@
+export enum Action{
+    ADD_TODO = "ADD_TODO",
+    TOGGLE_TODO = "TOGGLE_TODO",
+    REMOVE_TODO = "REMOVE_TODO",
+    REMOVE_ALL = "REMOVE_ALL"
+}
